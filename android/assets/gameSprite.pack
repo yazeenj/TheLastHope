@@ -1,0 +1,33 @@
+
+gamesp1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bullet
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+newTre1
+  rotate: false
+  xy: 154, 2
+  size: 591, 128
+  orig: 591, 128
+  offset: 0, 0
+  index: -1
+spiky
+  rotate: false
+  xy: 747, 2
+  size: 250, 128
+  orig: 250, 128
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 154, 132
+  size: 250, 128
+  orig: 250, 128
+  offset: 0, 0
+  index: -1
